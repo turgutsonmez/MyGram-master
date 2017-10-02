@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "59399330904",
+    "firebase_url": "https://mygram-79af6.firebaseio.com",
+    "project_id": "mygram-79af6",
+    "storage_bucket": "mygram-79af6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59399330904:android:979cd5f2e85b9f68",
+        "android_client_info": {
+          "package_name": "turgutsonmez.com.j6_10mygram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59399330904-qfjgoqi522dsqb6jokhe94v8v8oneko6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "turgutsonmez.com.j6_10mygram",
+            "certificate_hash": "ee09572b56962bd43618e2fd422ee5d3cbd25dc6"
+          }
+        },
+        {
+          "client_id": "59399330904-10s9vkjdh39ngh12ip65fm3s14qiav8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kz4uihqKAFDqejT7wNMfUPGyxnSEd8s"
+        },
+        {
+          "current_key": "AIzaSyBcYsFSzD4XGjsK_jvOA0fEJXYECjoxgH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59399330904-10s9vkjdh39ngh12ip65fm3s14qiav8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
